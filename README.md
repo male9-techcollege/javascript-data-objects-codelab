@@ -46,7 +46,7 @@ Eksempel: dataobjekter kan bruges til at lave en indkøbskurv i JavaScript.
 * Web Dev Simplifieds video "JavaScript Shopping Cart Tutorial for Beginners", https://www.youtube.com/watch?v=YeFzkC2awTM, viser lidt hvordan, men scripten henter dataene i DOM'en i stedet for at bruge en array.
 * Bro Codes video "Learn JavaScript OBJECTS in 7 minutes!", https://www.youtube.com/watch?v=lo7o91qLzxc&list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv&index=38, taler om dataobjekter med "key-value pairs" (en indledning til "object-oriented programming"). 
 
-(2) En måde at gemme "key-value pairs" er at bruge "local storage". Se vejledningen på W3 Schools, https://www.w3schools.com/jsref/prop_win_localstorage.asp
+(2) En måde at gemme "key-value pairs" er at bruge "local storage". Se vejledningerne på W3 Schools, https://www.w3schools.com/jsref/prop_win_localstorage.asp, og på MDN, https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 (3) En god datastruktur at bruge i en app er en "key-value pair".
 
