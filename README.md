@@ -18,8 +18,8 @@ Søg efter forklaringer og eksempler – gerne både tekst og video.(1)
 Prøv at finde eller lave eksempler på:
 - Hvordan man kan gemme information om elever i en klasse som dataobjekter. Fx navn, alder, interesser, fravær osv.(2)
 - Hvordan kan man strukturere det, så det er nemt at bruge i en app?(3)
-- Hvordan en todo-liste app kan bruge dataobjekter. Fx opgaver med titel, deadline, om den er færdig eller ej.
-- Hvordan kan man gemme og vise disse data?
+- Hvordan en todo-liste app kan bruge dataobjekter. Fx opgaver med titel, deadline, om den er færdig eller ej.(4)
+- Hvordan kan man gemme og vise disse data?(5)
 
 Tips:
 Brug Google, YouTube eller MDN Web Docs til at finde gode forklaringer.
@@ -55,3 +55,6 @@ A key-value store is a non-relational database that consists of key-value pairs.
 
 "Value: The data associated with the key. It can be of any data type, including strings, numbers, arrays, objects, functions, etc. (...) You can access the values in an object using two methods: 1. Dot Notation: The most common way to access values. 2. Bracket Notation: Used when the key is a variable or contains special characters." Pravin M, "Key-Value Pair in JavaScript", Medium.com, https://frontendinterviewquestions.medium.com/key-value-pair-in-javascript-237300ce140f
 
+(4-5) Brugerinput i en formular til en huskeliste kan hentes/findes med JavaScript (.value) og så gemmes, f.eks. i "local storage" (localStorage.setItem()). Felterne i formularen til opgaver kan inkludere title, brødtekst og frist, men også kategorier som "personligt/fritid" eller "professionelt/arbejde" og de andre detaljer, som designeren vil have. 
+
+(5) Hvis dataene er gemt i "local storage", kan de vises blandt andet med localStorage.getItem().
