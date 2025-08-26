@@ -67,3 +67,4 @@ A key-value store is a non-relational database that consists of key-value pairs.
 (4-5) Brugerinput i en formular til en huskeliste kan hentes/findes med JavaScript (.value) og så gemmes, f.eks. i "local storage" (localStorage.setItem()). Felterne i formularen til opgaver kan inkludere title, brødtekst og frist, men også kategorier som "personligt/fritid" eller "professionelt/arbejde" og de andre detaljer, som designeren vil have. 
 
 (5) Hvis dataene er gemt i "local storage", kan de vises blandt andet med localStorage.getItem() og metoderne key(), JSON.stringify() og JSON.parse(). Se Nosa Obaseki, "localStorage in JavaScript: A complete guide", LogRocket.com, https://blog.logrocket.com/localstorage-javascript-complete-guide/
+Dataene kan eventuelt gemmes ved keyup med en "event listener". Se https://github.com/johnlindquist/scratchpad og den tilhørende artikel: https://egghead.io/lessons/javascript-avoid-losing-text-when-refreshing-the-browser-with-localstorage 
