@@ -26,8 +26,10 @@ Brug Google, YouTube eller MDN Web Docs til at finde gode forklaringer.
 Tænk over, hvordan du selv kunne bruge dataobjekter i dine egne projekter.
 Du må gerne skrive små kodeeksempler og teste dem i din browser eller i et online editor som JSFiddle eller CodePen.
 
-
-Når du er færdig med at researche. skal du producere codelab omkring data objects (se Moodle) 
+Når du er færdig med at researche. skal du producere codelab omkring data objects (se på Moodle, https://moodle.techcollege.dk/course/view.php?id=21591) 
+Relateredde kilder:
+https://www.w3schools.com/js/js_arrays.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 Fravær er baseret på om du comitter til dit codelab. du bestemmer selv hvornår på dagen du arbejder.
 
