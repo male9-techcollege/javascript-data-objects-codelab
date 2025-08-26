@@ -16,8 +16,7 @@ Din opgave:
 Brug mindst 30 minutter på at researche, hvad dataobjekter er, og hvordan de bruges i JavaScript.
 Søg efter forklaringer og eksempler – gerne både tekst og video.(1) 
 Prøv at finde eller lave eksempler på:
-- Hvordan man kan gemme information om elever i en klasse som dataobjekter.
-- Fx navn, alder, interesser, fravær osv.
+- Hvordan man kan gemme information om elever i en klasse som dataobjekter. Fx navn, alder, interesser, fravær osv.
 - Hvordan kan man strukturere det, så det er nemt at bruge i en app?
 - Hvordan en todo-liste app kan bruge dataobjekter. Fx opgaver med titel, deadline, om den er færdig eller ej.
 - Hvordan kan man gemme og vise disse data?
@@ -46,7 +45,7 @@ You can extend the structure of a data object by referencing other data objects.
 "A key-value pair is a data type that includes two pieces of data that have a set of associated values and a group of key identifiers. Within a key-value pair, there are two related data elements. The first is a constant used to define the data set. The other is a value, which is a variable belonging to the data set. For example, a car might be a key, while the car's color, model or brand could be the values. (...)
 A key-value store is a non-relational database that consists of key-value pairs. It uses the relations between key-value pairs to store and analyze data. Programmers use key-value stores to store data quickly, and they provide ways to retrieve and update data within a database. Key-value stores are much more flexible than other database storage systems because they store data in an array, which can accommodate different data types and dimensions, as opposed to other databases that store data in tables." Indeed, https://www.indeed.com/career-advice/career-development/key-value-pair
 
-"Value: The data associated with the key. It can be of any data type, including strings, numbers, arrays, objects, functions, etc." Pravin M, "Key-Value Pair in JavaScript", Medium.com, https://frontendinterviewquestions.medium.com/key-value-pair-in-javascript-237300ce140f
+"Value: The data associated with the key. It can be of any data type, including strings, numbers, arrays, objects, functions, etc. (...) You can access the values in an object using two methods: 1. Dot Notation: The most common way to access values. 2. Bracket Notation: Used when the key is a variable or contains special characters." Pravin M, "Key-Value Pair in JavaScript", Medium.com, https://frontendinterviewquestions.medium.com/key-value-pair-in-javascript-237300ce140f
 
 Eksempel: dataobjekter kan bruges til at lave en indkøbskurv i JavaScript. 
 * Web Dev Simplifieds video "JavaScript Shopping Cart Tutorial for Beginners", https://www.youtube.com/watch?v=YeFzkC2awTM, viser lidt hvordan, men scripten henter dataene i DOM'en i stedet for at bruge en array.
