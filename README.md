@@ -48,7 +48,7 @@ Eksempel: dataobjekter kan bruges til at lave en indkøbskurv i JavaScript.
 
 (2) En måde at gemme "key-value pairs" er at bruge "local storage". Se vejledningen på W3 Schools, https://www.w3schools.com/jsref/prop_win_localstorage.asp
 
-(3) En god struktur at bruge er en "key-value pair".
+(3) En god datastruktur at bruge i en app er en "key-value pair".
 
 "A key-value pair is a data type that includes two pieces of data that have a set of associated values and a group of key identifiers. Within a key-value pair, there are two related data elements. The first is a constant used to define the data set. The other is a value, which is a variable belonging to the data set. For example, a car might be a key, while the car's color, model or brand could be the values. (...)
 A key-value store is a non-relational database that consists of key-value pairs. It uses the relations between key-value pairs to store and analyze data. Programmers use key-value stores to store data quickly, and they provide ways to retrieve and update data within a database. Key-value stores are much more flexible than other database storage systems because they store data in an array, which can accommodate different data types and dimensions, as opposed to other databases that store data in tables." Indeed, https://www.indeed.com/career-advice/career-development/key-value-pair
