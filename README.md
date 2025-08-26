@@ -14,7 +14,7 @@ I dag skal du arbejde selvstændigt med dataobjekter i JavaScript. Det er en vig
 
 Din opgave:
 Brug mindst 30 minutter på at researche, hvad dataobjekter er, og hvordan de bruges i JavaScript.
-Søg efter forklaringer og eksempler – gerne både tekst og video.
+Søg efter forklaringer og eksempler – gerne både tekst og video.(1) 
 Prøv at finde eller lave eksempler på:
 - Hvordan man kan gemme information om elever i en klasse som dataobjekter.
 - Fx navn, alder, interesser, fravær osv.
@@ -36,3 +36,11 @@ Fravær er baseret på om du comitter til dit codelab. du bestemmer selv hvornå
 Besked til læreren
 -----------------------------------------------------
 I går var Visual Studio Code super langsom. Jeg tror, at det var, fordi Git prøvede at registrere alle ændringer løbende. Der var en pause, hver gang jeg skrev få ord. Som konsekvens kommer jeg til at skrive direkte på GitHub så meget som muligt. Den nærværende besked var skrevet i GitHubs editor.
+
+-----------------------------------------------------
+Forskning
+-----------------------------------------------------
+(1) "A data object is a structure for describing a data entity by grouping a set of related fields. For example, a supermarket Online orders application might contain an Customer data object. As seen in the following image, the Customer data object includes fields that describe the supermarket's customer, such as First name, Last name, Full name, Email, and Phone. (...) Collectively, the different fields define the structure of the data object.
+You can extend the structure of a data object by referencing other data objects. When one data object references a second data object, the fields in the second data object become part of the referencing data object. Any data object can be referenced either once or multiple times, depending on the need." Pegasystems, https://academy.pega.com/topic/understanding-data-objects/v1
+
+Eksempel: dataobjekter kan bruges til at lave en indkøbskurv i JavaScript. Se Web Dev Simplifieds video "JavaScript Shopping Cart Tutorial for Beginners", https://www.youtube.com/watch?v=YeFzkC2awTM
